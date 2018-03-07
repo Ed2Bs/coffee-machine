@@ -1,5 +1,5 @@
-# coffee-machine
-Exercise - coffee machine
+# Coffee Machine
+Exercise - Coffee Machine
 
 Machine logs information about how many and what drinks were served.
 
