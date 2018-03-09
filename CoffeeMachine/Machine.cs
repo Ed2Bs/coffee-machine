@@ -71,8 +71,11 @@ namespace CoffeeMachine
                         status = SugarContainer.GetDose();
                         break;
                     default:
+                        status = 1;
                         break;
                 }
+
+                if (status == -1) break;
             }
 
             if (status != -1)
